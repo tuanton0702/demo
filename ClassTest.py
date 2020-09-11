@@ -8,3 +8,4 @@ sieunhando=SieuNhan("GaoRed","Kiem","Do")
 sieunhanxanh=SieuNhan("GaoBlue","Sung","Xanh")
 print(" {} dang thong dit {}".format(sieunhando.ten,sieunhanxanh.ten))
 print("{} la vu khi cua {} ".format(sieunhanxanh.vukhi,sieunhanxanh.ten))
+// test master
