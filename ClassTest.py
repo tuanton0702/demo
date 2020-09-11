@@ -7,3 +7,4 @@ pass
 sieunhando=SieuNhan("GaoRed","Kiem","Do")
 sieunhanxanh=SieuNhan("GaoBlue","Sung","Xanh")
 print("test 1 2 3")
+print("test 1 2 4 1 4")
