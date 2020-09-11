@@ -6,4 +6,4 @@ class SieuNhan:
 pass
 sieunhando=SieuNhan("GaoRed","Kiem","Do")
 sieunhanxanh=SieuNhan("GaoBlue","Sung","Xanh")
-print("test")
+print("test 1 2 3")
